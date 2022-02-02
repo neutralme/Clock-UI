@@ -63,7 +63,6 @@ body {
   z-index: -1;
   width: 35vw;
   height: 35vw;
-  filter: blur(.1rem);
   position: absolute;
   border-radius: 1rem;
   background-color: #FFFFFF;
