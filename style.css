@@ -91,7 +91,15 @@ body {
   font-size: .6rem;
   color: #16CEF4;
 }
-
+.credit {
+  bottom: 0;
+  font-size: .4rem;
+  position: absolute;
+}
+.special1 {
+  color: #FC5125;
+  font-size: .4rem;
+}
 @media only screen and (min-width: 768px) {
   * {
     font-size: 2.3rem;
@@ -99,6 +107,9 @@ body {
   .container {
     padding: 1.6rem 2.8rem;
     border-radius: .7rem;
+  }
+  .hour, .minute, .second {
+    width: 4.5rem;
   }
   .asquare, .bsquare {
     width: 30vw;
