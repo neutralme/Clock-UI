@@ -27,7 +27,7 @@ body {
 .container {
   margin: 2rem;
   display: flex;
-  padding: 1rem 2rem;
+  padding: 1rem;
   flex-direction: row;
   align-items: center;
   border-radius: .4rem;
@@ -44,7 +44,7 @@ body {
   margin: .4rem 0 .4rem .4rem;
 }
 .hour, .minute, .second {
-  width: 4.6rem;
+  width: 3rem;
   margin: .5rem;
   padding: .5rem;
   text-align: center;
