@@ -100,4 +100,10 @@ body {
     height: 30vw;
     border-radius: 1.5rem;
   }
+  .asquare {
+    left: 1rem;
+  }
+  .bsquare {
+    right: 1rem;
+  }
 }
