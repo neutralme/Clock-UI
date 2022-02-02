@@ -61,8 +61,8 @@ body {
 }
 .asquare, .bsquare {
   z-index: -1;
-  width: 25vw;
-  height: 25vw;
+  width: 35vw;
+  height: 35vw;
   position: absolute;
   border-radius: 1rem;
   background-color: #FFFFFF;
@@ -96,6 +96,8 @@ body {
     border-radius: .7rem;
   }
   .asquare, .bsquare {
+    width: 30vw;
+    height: 30vw;
     border-radius: 1.5rem;
   }
 }
