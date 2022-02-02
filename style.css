@@ -105,3 +105,16 @@ body {
   font-size: 1rem;
   color: #16CEF4;
 }
+
+@media only screen and (min-width: 768px) {
+  .asquare {
+    height: 40vh;
+    width: 40vh;
+    transform: translate(0% ,140%);
+  }
+  .bsquare {
+    transform: translate(-120%, 30%);
+    height: 40vh;
+    width: 40vh;
+  }
+}
